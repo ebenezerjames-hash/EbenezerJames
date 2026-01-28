@@ -7,7 +7,7 @@ I am a Data Analyst and a gradguate from **Calbright College Sacramento CA**. I 
 - **Google Data Analytics Professional Certificate:** Developed foundational skills in the full data analysis process (Ask, Prepare, Process, Analyze, Share, and Act).
 
 ### 📊 Featured Project
-- **[Cyclistic Bike-Share Analysis](link-to-your-project-folder-here):** Conducted a comprehensive data analysis project to identify trends in how different customer types use bike-share services,processing 750k+ rows of data to drive marketing insights.. Utilized R and Tableau to provide data-driven recommendations for marketing strategies
+- **[Cyclistic Bike-Share Analysis](https://github.com/ebenezerjames-hash/Cyclistic-Bike-Share-Analysis):** Conducted a comprehensive data analysis project to identify trends in how different customer types use bike-share services,processing 750k+ rows of data to drive marketing insights.. Utilized R and Tableau to provide data-driven recommendations for marketing strategies
 
 ### 🚀 Technical Skills
 - **Data Analysis & Programming:** R Programming, SQL, Python
